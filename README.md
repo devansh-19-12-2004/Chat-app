@@ -1,1 +1,1 @@
-# Chat-app
+Chatrix - A Realtime chat application
